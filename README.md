@@ -60,7 +60,7 @@ A **simple and visual demo** that clearly shows side-by-side:
 
 ```bash
 git clone https://github.com/guicastle/flutter_async_isolate_example.git
-cd flutter-async-isolate-example
+cd flutter_async_isolate_example
 flutter pub get
 flutter run
 ```
